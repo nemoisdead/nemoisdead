@@ -3,9 +3,13 @@ html {
 }
 .post {
 	margin-bottom: 1em;
-	border-bottom: .5em solid #eee;
 }
-.post:last-child {
+.post hr {
+	border: 0;
+	border-bottom: .5em solid #eee;
+	margin: 0;
+}
+.post:last-child hr {
 	border-bottom: 0;
 }
 @media (min-width: 38em) {
