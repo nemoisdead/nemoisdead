@@ -1,3 +1,7 @@
 html {
 	direction: rtl;
 }
+.post {
+	margin-bottom: 1em;
+	border-bottom: .5em solid #eee;
+}
