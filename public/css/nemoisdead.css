@@ -5,3 +5,8 @@ html {
 	margin-bottom: 1em;
 	border-bottom: .5em solid #eee;
 }
+@media (min-width: 38em) {
+	.post {
+		font-size: 18px;
+	} 
+}
