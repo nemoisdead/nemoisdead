@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: اسم بچه‌هات رو چی میذاری؟
 ---

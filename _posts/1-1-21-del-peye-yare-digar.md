@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: دلت پی یار دیگر نبوده؟
 ---
