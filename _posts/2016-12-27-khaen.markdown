@@ -2,5 +2,6 @@
 published: true
 layout: post
 title: خائن
+dae: 2016-12-27 12:32:17 +0330
 ---
 خائن
