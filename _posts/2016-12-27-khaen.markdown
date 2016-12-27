@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Khaen
+title: خائن
 ---
 خائن

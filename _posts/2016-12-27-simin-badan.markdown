@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: simin badan
+title: سیمین بدن
 ---
 ترسم که آن سیمین بدن باشد در آغوش رغیب...

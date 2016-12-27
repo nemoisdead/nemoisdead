@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Janeshine to dar in sine
+title: جانشین تو در این سینه
 ---
 جانشین تو در این سینه خداوند نشد
