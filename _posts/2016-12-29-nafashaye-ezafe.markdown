@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Nafashaye ezafe
+title: نفس‌های اضافه
 ---
 این نفسها اضافه هستن. خیلی وقته.

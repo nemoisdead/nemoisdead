@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Vaghti offlini kojaee
+title: وقتهایی که آفلاینی
 ---
 وقتهایی که آفلاینی کجایی؟ من می دونم کجایی...
