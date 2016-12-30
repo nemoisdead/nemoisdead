@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Avalin bar
+title: اولین بار
 ---
 اولین بار چطور بود؟

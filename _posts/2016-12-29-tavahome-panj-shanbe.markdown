@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Tavahome panj shanbe
+title: توهم پنج‌شنبه
 ---
 پنج شنبه‌ها دیگه توهم نیست...
