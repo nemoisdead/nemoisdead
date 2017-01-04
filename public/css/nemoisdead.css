@@ -12,6 +12,15 @@ html {
 .post:last-child hr {
 	border-bottom: 0;
 }
+
+.nodisplay {
+    display: none;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
 @media (min-width: 38em) {
 	.post {
 		font-size: 18px;
