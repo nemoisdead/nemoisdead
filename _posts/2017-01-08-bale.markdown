@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Bale
+title: بله
 ---
-**بعله**
+**بله**

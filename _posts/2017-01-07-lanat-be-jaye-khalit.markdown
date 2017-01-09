@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Lanat be jaye khalit
+title: لعنت به جای خالیت
 ---
 لعنت به جای خالیت. لعنت.
