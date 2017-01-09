@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Bi vojdan
+title: بی وجدان
 ---
-بی‌وجدان!
+بی وجدان!
