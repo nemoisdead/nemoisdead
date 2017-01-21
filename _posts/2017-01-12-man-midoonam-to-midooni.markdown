@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
-title: Man midoonam, to midooni?
+title: من میدونم، تو میدونی؟
+date: 2017-01-12 18:08:11 +0330
 ---
 من میدونم زندگی تو چطور میگذره. تو میدونی زندگی من چطور میگذره؟

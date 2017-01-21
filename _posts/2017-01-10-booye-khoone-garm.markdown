@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
-title: Booye khoone garm
+title: بوی خون گرم
+date: 2017-01-10 19:51:16 +0330
 ---
 دلم میخواد کف دستم رو ببرم، خون گرم جمع شه کف دستم، بو کنم، بو کنم...
