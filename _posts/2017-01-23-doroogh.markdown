@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
-title: Doroogh
+title: دروغ
+date: 2017-01-23 21:05:53 +0330
 ---
 دروغ، دروغ، دروغ...دروغ‌های بزرگ و مهم...
