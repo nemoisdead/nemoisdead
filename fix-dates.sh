@@ -7,3 +7,5 @@ do
             date: $date" "$post"
     fi
 done
+git add _posts
+git fixdates
