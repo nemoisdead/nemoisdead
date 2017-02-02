@@ -1,6 +1,6 @@
 ---
 published: true
 layout: post
-title: Card daram
+title: درد دارم
 ---
 خدایا درد دارم. هیچی جز درد ندارم. خدایا به خاک سیاه نشستم.
