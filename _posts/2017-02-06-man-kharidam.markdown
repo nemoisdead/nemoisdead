@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: من خریدم...چطور میتونی؟
+date: 2017-02-06 14:02:13 +0330
 ---
 
 -----BEGIN PGP MESSAGE-----
