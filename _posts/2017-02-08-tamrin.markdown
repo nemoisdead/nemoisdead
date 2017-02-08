@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: تمرین
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCzIPM7vL7I+dgyZ6k0/vc8Uc/7hibrsBaM5LgRbbIm96rh6azhoDb+Pqp
+ZhGHJV/sRVLO0BTsQG5ql0SPcOZ5sapIx2WUWW36ZKV9HtMlvHXb80B2SGhN3KoW
+ZhEf5soQcpVE/2fxEl3azUYwQtKh2NBQn0g8BWZpCEnfwvrnj0+O1UU8x9ZoE7n1
+EKYVIntN9MDvL12swzNCqQM4QIUt4QeTj3AUip0bOQ==
+=oWX4
+-----END PGP MESSAGE-----
