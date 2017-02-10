@@ -15,6 +15,7 @@ $(document).ready(function(){
     function updateP(p, post, result){
         p.html(result.data);
         post.removeClass('pp nodisplay');
+        post.addClass('pd');
     }
 
     $('#showposts').click(function(){
