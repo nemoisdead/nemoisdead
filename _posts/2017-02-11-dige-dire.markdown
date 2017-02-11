@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+title: دیر شده
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCcVNBd41dUtRgyUqP1SXguSmJbsjrgqdG4Zl5r38gyV4keW4eb73aPU1w
+fl+Og500cRBhzTD5pb0mgsW76/heNIBNcRl/q3j5UnHAkF6WaqGM+36+MQ==
+=q1hF
+-----END PGP MESSAGE-----
