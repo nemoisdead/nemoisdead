@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: میدونه؟
+date: 2017-02-13 18:05:44 +0330
 ---
 
 -----BEGIN PGP MESSAGE-----
