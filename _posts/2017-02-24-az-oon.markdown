@@ -1,0 +1,14 @@
+---
+published: true
+layout: post
+title: از اون
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCZVBee/7zh7RgyW33EVWEhc5mfSN2uRyVxUaqHDSL/lmWcca31yISx/jn
+Jf43oIRvTKcIRRs3Gw/MnR1j/o+wqrSVHEBitWiFT08eXMy3WAxxABGLuwwrhMIC
+GMuFVjbUtT6KcFJzeY3WmYIy1i+hft7425ENu3xS
+=iMTH
+-----END PGP MESSAGE-----
