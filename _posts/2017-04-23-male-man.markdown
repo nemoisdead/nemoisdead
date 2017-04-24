@@ -1,0 +1,16 @@
+---
+published: true
+layout: post
+title: مال من...
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCMsHAAs1MGQlgycATPIQKS74k0846oCPthG/nZMUp0PBfgF5z6pXHKJTw
+PEaBeLv6F/DT+vqkAsyehhq5WQi1KsOXVMainh+AM+wMKiyw9nsS6QZ9TAxdfWbP
+GLK6buA5Ld60Fia0dG/U/IZw9LssPUnH1VXLCLa+15JWACyfzjCg7c2PeQSGdCnt
+w4YDpCLAVg/4sZXNqJ+biDrzzw7HpTtYJhjM6v5Hsj01Cz7bEqlDL7mDPw6Zhr9z
+vWicowoEESPzny6A11I29gAs3TNmaEYYuy+iTdm7KxKdQfG96g==
+=HerC
+-----END PGP MESSAGE-----
