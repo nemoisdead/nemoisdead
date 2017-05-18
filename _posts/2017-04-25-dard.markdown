@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: درد چیه؟
+date: 2017-04-25 23:03:05 +0430
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCzYKukNGFG5hgyX/t351lGGRfEmyIAYS3Iq6trtZJ2Y/K7NCh0K+JUxia
+sEgV6HOf5lGKWA0jxM13msNT53TM1SlcSkw5ru8ZZRgC32wsFTb7e0QQEaswPb3K
+P0KRRdfiBBXoKnI0PHDubcAKsDEFOXa5L5K5oaEiXG2116wdrbPLbCRqQds9li/Q
+=lG7Y
+-----END PGP MESSAGE-----
