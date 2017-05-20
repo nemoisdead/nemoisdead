@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: اگه من جای تو بودم...
+date: 2017-05-20 12:45:52 +0430
 ---
 
 -----BEGIN PGP MESSAGE-----
