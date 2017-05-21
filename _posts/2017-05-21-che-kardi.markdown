@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: چه کردی؟!
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCCfBiH35YijxgyZUG7i0D8vydS24O5DeYEz9k2vXvWFMAasixrIB1TvDB
+qpqMAnyjzb7HXmse41VBB1f8KhmICgsA2VDR11WHY2XEfv5lwUmCqcPWrDHsgYPB
+apULzK6otn7JIw0zIpdpKutIPyXvJ5lmc/rejfN+QCDSDwPHi+3bxWmI7kIy914V
+FHvQNqjF3/oCOyzUWd+rtd67vXQnHg==
+=vyn0
+-----END PGP MESSAGE-----
