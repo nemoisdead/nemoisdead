@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: بد کردی
+date: 2017-05-24 16:34:28 +0430
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCnzzpNXzGwNBgyVGuHNeEg4l7sU4GewffKZTvyOG0c85R70rozc07KWlE
+ItazwDkueHmMU4a3hwtjxNCao3pqSSEBYULfjo01xQdXmarGDJ5mSmLyI9mgnn7P
+TT4=
+=pkLG
+-----END PGP MESSAGE-----
