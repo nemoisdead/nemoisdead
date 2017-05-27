@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: هرروز...
-date: 
+date: 2017-05-27 14:30:00 +0430
 ---
 
 -----BEGIN PGP MESSAGE-----
