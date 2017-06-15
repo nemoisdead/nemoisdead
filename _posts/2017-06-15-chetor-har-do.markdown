@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: چطور؟
+date: 2017-06-15 12:37:10 +0430
 ---
 
 -----BEGIN PGP MESSAGE-----
