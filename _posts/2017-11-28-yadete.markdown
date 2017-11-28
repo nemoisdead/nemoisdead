@@ -1,0 +1,15 @@
+---
+published: true
+layout: post
+title: یادته؟
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMC0bcwRdjFxXJgyZD5sLT7NbJOG0n1c6tk+dYhE0lUCbaBUkQlkza+kiQH
+ONrVcakkRhjEHwMl/EA2Id1YsI9jMNFD+mHSQ3oC2TmnCObNoTZIyncUX6rKOtrw
+xlNbI1WfSqy1TlNgUspEBldhUWiGEpAL5LoAlyrXN+5FIZ6huR8pnqy0EMIVAEYK
+e9CAVbpTHTy8l8O8O/FE9Dg=
+=G/bs
+-----END PGP MESSAGE-----
