@@ -1,0 +1,14 @@
+---
+published: true
+layout: post
+title: چه زود
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCyxsGxzmnlKJgyXV2NylQD4+2krkr7ERP1skpACSmbxU6BB70c8qX6O3h
+dp/yL91n7UZk/SDJGZWKAOYD0TI6IFiWzuRjnRtlFpevM5WBVlUbhyKTRi2Hx1x2
+OMp4hRoC3y7dDMQgk6LaYT0R7muN/+Y59jQ+BhT5E4fBUErl5G4=
+=bVQQ
+-----END PGP MESSAGE-----
