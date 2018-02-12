@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+title: داری؟
+---
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+jA0EAwMCyylcAXNl4QRgyS6M6Lj+hRY1UzOXXbPlgisn5Mfx1yoCrJO/dhk5wpTJ
+a00/RkNM1VCjHKOe7YZX
+=Hg3n
+-----END PGP MESSAGE-----
